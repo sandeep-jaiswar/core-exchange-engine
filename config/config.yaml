@@ -1,0 +1,3 @@
+mongo:
+  uri: "mongodb+srv://prod:Rhw8xRpt7A7ftC8f@production.e0iab.mongodb.net"
+  database: "production"
